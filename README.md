@@ -6,16 +6,21 @@ This project demonstrates a complete ML lifecycle from data preprocessing to dep
 
 ---
 
+
 ## 🚀 Project Overview
 
 Insurance premium pricing depends on multiple risk-related factors such as age, BMI, smoking habits, medical history, and dependents.
 
 This application uses Machine Learning models to estimate the **expected annual premium** for an individual.
 
+
 ---
+
 
 ## 🚀 Live Demo
 👉 https://ml-project-premium-prediction-mohamed-aslam.streamlit.app
+
+
 
 
 ## 🎯 Objective
